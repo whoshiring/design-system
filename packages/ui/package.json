@@ -1,6 +1,6 @@
 {
   "name": "@cr8iv/fushia",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Component Library for whoshiring.fyi",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
